@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - QR Code Component Solution
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -24,16 +24,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [Styled Components]("https://fonts.google.com/specimen/Outfit") - For css fonts
 
 ### What I learned
 
-- I learnt how to add the webpage's icon in the head.
+- I learnt how to add the webpage's icon in the head tag.
 
 ```html
 <head>
@@ -50,7 +46,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I want to focus on working on the contents in the head tag, especially importing fonts, scripts and others.
+- Focusing on the contents in the head tag, especially meta tags, fonts, and favicon.
 
 ## Author
 
@@ -59,4 +55,4 @@ I want to focus on working on the contents in the head tag, especially importing
 
 ## Acknowledgments
 
-Thanks to Sololearn and Mimo dev team for creating apps that offer free web development lessons
+- Thanks to Sololearn and Mimo dev team for creating apps that offer free web development lessons
